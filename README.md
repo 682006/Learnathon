@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 🌿 RuralDoc – AI-Powered Diagnostic Chatbot for Rural Healthcare
 **A Learnathon 4.0 Project**  
 Team: SC1-3_11
