@@ -35,3 +35,5 @@ In rural areas, access to timely and reliable healthcare is difficult. This proj
 | Backend    | FastAPI (Python)                 |
 | Deployment | Submitted via GitHub Repository  |
 | Others     | JSON, REST APIs                  |
+
+<!-- Uploading "AI-Powered-Chatbot-for-Rural-Healthcare-Accessibility.pptx"... -->
