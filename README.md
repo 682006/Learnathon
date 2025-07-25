@@ -37,3 +37,4 @@ In rural areas, access to timely and reliable healthcare is difficult. This proj
 | Others     | JSON, REST APIs                  |
 
 [Download the PPT](Team(SC1)3_11.pptx)
+PPT Drive Links - https://docs.google.com/presentation/d/1j_P_NSS4UvatRDF646x4aUfn1ym4wo01/edit?usp=drive_link&ouid=104038886589239753159&rtpof=true&sd=true
