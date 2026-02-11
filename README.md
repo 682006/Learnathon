@@ -1,17 +1,5 @@
 🌿 RuralDoc – AI-Powered Diagnostic Chatbot for Rural Healthcare
 **A Learnathon 4.0 Project**  
-Team(SC1)3_11
-
-👨‍💻 Team Members
-
-| Name                 | ID Number              |
-|----------------------|------------------------|
-| Manish Narayan Sahoo |     Team(SC1)3_11      |
-| Piyush Pradhan       |     Team(SC1)3_11      | 
-| Paritosh Dash        |     Team(SC1)3_11      |
-| Sai Swarup Mishra    |     Team(SC1)3_11      |
-
-
 🚀 Project Overview
 
 RuralDoc – AI-Powered Diagnostic Chatbot for Rural Healthcare is a multilingual, lightweight, AI-driven chatbot that offers basic health diagnostics and nearby referral suggestions for people in rural or underdeveloped regions — even on low-end mobile devices.
